@@ -25,4 +25,3 @@ function qpm_performance() {
 	}
 }
 add_action( 'wp_footer', 'qpm_performance', 20 );
-?>
