@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Query Performance Monitor
+Plugin Name: wp-Database-Performance-Monitor
 Description: Outputs some database query information on page load for logged in admins
-Version: 0.1
+Version: 1.0
 Author: Brad Parbs
 Author URI: http://bradparbs.com
 License: GPL2
